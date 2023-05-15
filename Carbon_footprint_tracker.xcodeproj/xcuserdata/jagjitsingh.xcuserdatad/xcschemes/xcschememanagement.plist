@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Carbon_footprint_tracker.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>267DB7E329F1F323006AE4B3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>267DB7F329F1F324006AE4B3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>267DB7FD29F1F324006AE4B3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
