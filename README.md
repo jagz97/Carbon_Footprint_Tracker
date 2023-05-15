@@ -1,8 +1,5 @@
 # Carbon_Footprint_Tracker
 
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-15 at 15 03 33](https://github.com/jagz97/Carbon_Footprint_Tracker/assets/68725607/272e5c8e-e277-4278-ace2-a5e65a480027)
-
-
 Instructions on how to clone an iOS Swift app from GitHub and set it up using Xcode. It also includes steps on installing Xcode tools, running the app in Xcode, and building it for the iPhone simulator.
 
 ## Prerequisites
@@ -69,3 +66,6 @@ To build and run the app on a physical iPhone or iPad, follow these steps:
 3. Click the "Run" button or press `Cmd + R`.
 4. Xcode will build the project and deploy the app to your connected device.
 
+## ScreenShots
+
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-15 at 15 03 33](https://github.com/jagz97/Carbon_Footprint_Tracker/assets/68725607/272e5c8e-e277-4278-ace2-a5e65a480027)
